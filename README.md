@@ -11,7 +11,7 @@ Open `index.html` in your browser (or serve it with a local HTTP server) to see:
 1. 🌱 A seed on the canvas — **click it** to start the animation (and play the music).
 2. 🌳 A tree grows branch by branch.
 3. 💗 Blossoms bloom into hearts.
-4. 💌 A personalised birthday message appears with a typewriter effect.
+4. 💌 A personalized birthday message appears with a typewriter effect.
 
 ---
 
@@ -89,7 +89,7 @@ Tweak the `opts` object inside the `<script>` block at the bottom of `index.html
 
 | Property | What it controls |
 |---|---|
-| `opts.seed.color` | Colour of the seed / heart |
+| `opts.seed.color` | Color of the seed / heart |
 | `opts.bloom.num` | Number of heart blossoms |
 | `opts.branch` | Branch coordinates (Bézier control points) |
 | `opts.footer` | Footer line dimensions and speed |
